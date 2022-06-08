@@ -2,7 +2,7 @@
   <a href="#-Tecnologias">Tecnologias</a> |
   <a href="#-Projeto">Projeto</a> |
   <a href="#-Layout">Layout</a> |
-  <a href="#-Licença">Licenças</a>
+  <a href="#-Licença">Licença</a>
 </p>
 
 ![preview](https://user-images.githubusercontent.com/99052605/172709306-debff6aa-25c8-4eeb-85ff-964b31215b7a.jpg)
