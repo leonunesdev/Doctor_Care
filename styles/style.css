@@ -18,7 +18,8 @@
 
   --bg-light: hsl(180, 14%, 97%);
 
-  font-size: 62.5%; /* 1rem = 10px */
+  font-size: 62.5%;
+  /* 1rem = 10px */
 
   --nav-height: 7.2rem;
 }
@@ -198,7 +199,7 @@ body.menu-expanded {
   overflow: hidden;
 }
 
-body.menu-expanded > :not(nav) {
+body.menu-expanded> :not(nav) {
   visibility: hidden;
 }
 
@@ -477,6 +478,7 @@ footer .social-links {
 
 /*=== RESPONSIVO =================================*/
 @media (min-width: 1024px) {
+
   /*=== GERAL =================================*/
   body {
     overflow: auto;
@@ -662,7 +664,7 @@ footer .social-links {
     gap: 0;
   }
 
-  #home .stats .stat + .stat {
+  #home .stats .stat+.stat {
     border-left: 1px solid var(--primary-color);
   }
 
@@ -725,7 +727,7 @@ footer .social-links {
   footer {
     padding-block: 8rem;
   }
-  
+
   footer .wrapper {
     grid-template-columns: 1fr 1fr;
     grid-template-areas: 'A B';
